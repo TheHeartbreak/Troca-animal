@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 17,
+    "html.autoClosingTags": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "javascript.autoClosingTags": true,
+}
